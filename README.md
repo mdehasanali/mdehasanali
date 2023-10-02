@@ -2,14 +2,14 @@
 
 #### I Studied At Chapai Nawabganj Polytechnic Institute Department of Computer Engineering and Informatics Computer Technology
 
-![ I Studied At Chapai Nawabganj Polytechnic Institute Department of Computer Engineering and Informatics Computer Technology](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![ I Studied At Chapai Nawabganj Polytechnic Institute Department of Computer Engineering and Informatics Computer Technology]()
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Html / Css / JavaScript / jQuery / Bosstrap 5 / Python / C# / Git and Github
+Skills: Html / Css / JavaScript / jQuery / Bosstrap 5 / PHP / MySQL / Python / Java / C# / Git and Github
 
 - 🔭 I’m currently working on Git and Github
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning JAVA
 - 🤔 I’m looking for help with Html / Css / JavaScript / Python / C# / Git and Github
 - 💬 Ask me about Any Question ( Html / Css / JavaScript / jQuery / Bosstrap 5 / Python / C# / Git and Github )
 - 📫 How to reach me: Message in Facebook : https://www.facebook.com/Md.Ehasan.Ali.520/
